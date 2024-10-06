@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/67543cc5-f57f-457d-87cf-4e867f5e040f)# NotPixel FREE Python Bot
+# NotPixel FREE Python Bot
 
 This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimited Account Support handling AUTO PIXEL FILL , AUTO RESOURCE CLAIM. If you can run your pc 24/7 then you dont need a Vps else Better buy a small VPS!!
 
