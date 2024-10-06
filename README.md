@@ -1,4 +1,4 @@
-# NotPixel FREE Python Bot
+![image](https://github.com/user-attachments/assets/67543cc5-f57f-457d-87cf-4e867f5e040f)# NotPixel FREE Python Bot
 
 This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimited Account Support handling AUTO PIXEL FILL , AUTO RESOURCE CLAIM. If you can run your pc 24/7 then you dont need a Vps else Better buy a small VPS!!
 
@@ -11,7 +11,8 @@ This Python NotPixel Bot script manages Multi Account for NotPixel bot, Unlimite
 1. Go to telegram desktop Settings then Advance > experimental settings.
 2. Then Turn on `enable web inspecting`
 3. Done ! Login to NOTPIXEL and inspect to get the Query ID (right click to Inspect)
-4. ![image](https://github.com/user-attachments/assets/6be1fce1-923b-4f0b-b1e2-71c845e58580)
+4. ![image](![image](https://github.com/user-attachments/assets/01e3bdcd-69d8-42e4-8498-f14c43acd37e)
+)
 
 
 # Setps to follow !
